@@ -1,4 +1,4 @@
-# Beatriz Buffon - Portfólio
+# Beatriz Woos Buffon - Portfólio
 
 Olá! Bem-vindo(a) ao meu portfólio.
 
@@ -78,5 +78,3 @@ Relatório de análise de série temporal da velocidade do vento em Brasília (2
 
 
 ---
-
-© 2025 Beatriz Buffon. Todos os direitos reservados.

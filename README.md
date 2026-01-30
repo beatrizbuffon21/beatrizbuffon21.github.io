@@ -7,9 +7,13 @@ Este é um espaço dedicado a apresentar minha jornada profissional e meus princ
 ---
 
 ## Sobre Mim
-Cientista de dados em formação, com dois anos de experiência em modelagem estatística aplicada, análise de dados e desenvolvimento de distribuições para dados limitados. Atualmente, atuo como bolsista de Iniciação Científica no projeto “Modelos dinâmicos para variáveis positivas ou duplamente limitadas”, com foco em regressão, estimação via máxima verossimilhança e simulação.
+Cientista de dados em formação, com dois anos de experiência em modelagem estatística aplicada e análise de dados. Estudante do 9º semestre de Estatística na UFSM.
 
-Tenho experiência em análise e tratamento de dados com **R e Python**, incluindo séries temporais, regressão, construção de dashboards automatizados e interfaces gráficas. Possuo familiaridade com bibliotecas amplamente utilizadas na ciência de dados, além de conhecimentos em **SQL**, **Git** e **Power BI**. Domino conceitos fundamentais da Estatística, como inferência, probabilidade, modelagem estatística e previsão.
+Atualmente atuo como bolsista no projeto de pesquisa “Modelos dinâmicos para variáveis positivas ou duplamente limitadas”, vinculado ao Instituto Serrapilheira. Desenvolvi atividades voltadas à modelagem por regressão, estimação de parâmetros via máxima verossimilhança, além de simulação e avaliação do desempenho de modelos estatísticos, com foco em rigor metodológico e validação empírica.
+
+Possuo experiência em projetos envolvendo o desenvolvimento e ajuste de modelos estatísticos para dados contínuos, positivos e limitados, bem como em análise exploratória, tratamento e validação de bases de dados reais. Também atuo em projetos com séries temporais, regressão, previsão e análises espaciais. Em termos de competências técnicas, trabalho com Python (NumPy, SciPy e scikit-learn), R, SQL, técnicas de Machine Learning, controle de versão com Git e GitHub, desenvolvimento de painéis interativos no Power BI e QGIS para análises espaciais.
+
+Minha graduação em estatística inclui forte base em inferência estatística, probabilidade, modelagem estatística, séries temporais e métodos de previsão, estimação por máxima verossimilhança aplicada a diferentes classes de modelos.
 
 ---
 

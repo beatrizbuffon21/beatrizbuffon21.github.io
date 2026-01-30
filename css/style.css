@@ -325,27 +325,6 @@ section h2:after {
     color: #2c3e50;
 }
 
-/* Alinhar o botão "Ver Projeto" no mesmo nível em todos os cards */
-.projeto-card {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-}
-
-.projeto-info {
-    display: flex;
-    flex-direction: column;
-    flex: 1;              /* ocupa o restante do card */
-}
-
-.projeto-info p {
-    margin-bottom: 0;     /* remove o espaçamento fixo que varia a posição do botão */
-}
-
-.projeto-link {
-    margin-top: auto;     /* empurra o botão para o final do card */
-}
-
 
 /* Contato */
 .contato-content {
@@ -472,5 +451,32 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+/* Projetos: forçar cards com mesma altura e botão alinhado */
+#projetos .projetos-grid{
+  align-items: stretch;
+  grid-auto-rows: 1fr; /* força todos os cards da grade a terem altura igual por linha */
+}
+
+#projetos .projeto-card{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#projetos .projeto-info{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+#projetos .projeto-info p{
+  margin-bottom: 0 !important; /* remove o margin que “puxa” o botão pra cima/baixo */
+}
+
+#projetos .projeto-link{
+  margin-top: auto !important; /* ancora o botão no fundo */
+}
+
 
 

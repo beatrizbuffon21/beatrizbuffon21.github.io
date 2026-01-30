@@ -39,10 +39,10 @@ Minha graduação em estatística inclui forte base em inferência estatística,
 ## Habilidades
 
 ### Técnicas
-* **Linguagens:** R, Python, SQL
-* **Ferramentas e Bibliotecas:** Git, GitHub, Power BI, Looker Studio, Pandas, NumPy, Scikit-learn
+* **Linguagens:** R, Python(NumPy, SciPy e scikit-learn), SQL
+* **Ferramentas e Bibliotecas:** Git, GitHub, Power BI, Looker Studio
 * **Modelagem:** Regressão, Modelos Lineares Generalizados (MLG), Séries Temporais, Algoritmos de Regressão, Classificação e Clusterização.
-* **Estatística:** Inferência, Probabilidade, Estatística Descritiva (localização, dispersão, assimetria, kurtosis), Modelagem estatística e Previsão.
+* **Estatística:** Inferência, Probabilidade, Estatística descritiva, Modelagem estatística e Previsão.
 * **Métricas:** RMSE, MAE, MAPE, Matriz de Confusão, Precisão, Recall, Curva ROC, Curva Lift, AUC, Silhouette Score, DB-Index.
 
 ### Soft Skills
@@ -60,17 +60,32 @@ Minha graduação em estatística inclui forte base em inferência estatística,
 
 ## Projetos
 
-### Análise Estatística de fatores socioeconômicos e geográficos associados à Mortalidade Infantil
-Análise de regressão com distribuição Binomial Negativa para modelar a mortalidade infantil no Paraná, em 2010. O projeto focou em seleção de variáveis, diagnóstico de modelo e validação estatística, demonstrando o impacto de fatores como latitude, longitude e IFDM.
+### Séries Temporais:
+
+### Análise e Monitoramento da Velocidade do Vento em Brasília (2001-2018) 
+O estudo analisa a velocidade média do vento em Brasília (2001–2018) por meio de uma abordagem integrada de séries temporais e Controle Estatístico de Processo. Um modelo SARIMA é ajustado para remover dependência temporal e sazonalidade, seguindo a metodologia Box-Jenkins. A adequação do modelo é validada por diagnósticos de resíduos (Ljung-Box e Shapiro-Wilk). Os resíduos são então monitorados via gráfico de controle para valores individuais, avaliando a estabilidade do processo.
+[**Ver Projeto**](https://github.com/beatrizbuffon21/trabalho_mlg)
+
+### Análise do Saldo de Emprego do Maranhão (2007–2017)
+O trabalho analisa a série temporal mensal do saldo de emprego no Maranhão (2007–2017), investigando sua volatilidade, ciclos e padrões sazonais. São aplicadas técnicas de decomposição e testes de raiz unitária para avaliar estacionariedade e tendência. Um modelo SARIMA é ajustado e validado por meio de diagnósticos dos resíduos. O modelo validado é utilizado para gerar previsões dentro e fora da amostra, subsidiando análises do mercado de trabalho.
+[**Ver Projeto**](https://github.com/beatrizbuffon21/trabalho_mlg)
+
+### Análise e Predição de Aprovação de Empréstimos 
+O projeto desenvolve um fluxo completo de modelagem preditiva para aprovação de empréstimos, desde a exploração e preparação dos dados até a avaliação de modelos de classificação. São comparados algoritmos como Regressão Logística, SVM e Random Forest quanto à capacidade preditiva e generalização. O desempenho é analisado por métricas de classificação, calibragem probabilística e curvas de aprendizado. A importância das variáveis é utilizada para apoiar a interpretação dos resultados e a tomada de decisão.
 [**Ver Projeto**](https://github.com/beatrizbuffon21/trabalho_mlg)
 
 ### Modelo de Regressão com base na Distribuição Burr XII unitária inflacionada em zero ou uns
 Proposta de uma extensão da distribuição Burr XII unitária (UBXII) para modelar dados com inflação em zeros ou uns. O trabalho apresenta a formulação teórica, a estimação via máxima verossimilhança e a aplicação prática do modelo utilizando o pacote GAMLSS em R.
 [**Ver Projeto**](https://github.com/beatrizbuffon21/series-temporais)
 
-### Evolução e tendências da velocidade do vento em Brasília: Uma abordagem Estatística
-Relatório de análise de série temporal da velocidade do vento em Brasília (2001-2018). O projeto utilizou técnicas estatísticas e gráficas para identificar padrões sazonais, tendências e mudanças estruturais na série, com o objetivo de compreender a dinâmica dos ventos na região.
-[**Ver Projeto**](https://github.com/beatrizbuffon21/unit-BurrXII-inflated)
+### Análise Estatística de fatores socioeconômicos e geográficos associados à Mortalidade Infantil
+Análise de regressão com distribuição Binomial Negativa para modelar a mortalidade infantil no Paraná, em 2010. O projeto focou em seleção de variáveis, diagnóstico de modelo e validação estatística, demonstrando o impacto de fatores como latitude, longitude e IFDM.
+[**Ver Projeto**](https://github.com/beatrizbuffon21/trabalho_mlg)
+
+### Análise de Dados Eleitorais com QGIS (em andamento)
+O projeto capacita o uso do QGIS para análise espacial de dados eleitorais e censitários brasileiros, integrando cartografia temática e ciência política. Aborda técnicas de geoprocessamento, visualização e automação de mapas, com dados do TSE e IBGE. Explora fundamentos da geografia eleitoral, autocorrelação espacial e identificação de padrões de voto. Enfatiza boas práticas de inferência espacial, prevenindo a falácia ecológica e apoiando análises socioeleitorais rigorosas.
+[**Ver Projeto**](https://github.com/beatrizbuffon21/trabalho_mlg)
+
 
 ---
 

@@ -325,6 +325,28 @@ section h2:after {
     color: #2c3e50;
 }
 
+/* Alinhar o botão "Ver Projeto" no mesmo nível em todos os cards */
+.projeto-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.projeto-info {
+    display: flex;
+    flex-direction: column;
+    flex: 1;              /* ocupa o restante do card */
+}
+
+.projeto-info p {
+    margin-bottom: 0;     /* remove o espaçamento fixo que varia a posição do botão */
+}
+
+.projeto-link {
+    margin-top: auto;     /* empurra o botão para o final do card */
+}
+
+
 /* Contato */
 .contato-content {
     display: flex;

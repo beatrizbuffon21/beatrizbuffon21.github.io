@@ -7,7 +7,7 @@ Este é um espaço dedicado a apresentar minha jornada profissional e meus princ
 ---
 
 ## Sobre Mim
-Cientista de dados em formação, com dois anos de experiência em modelagem estatística aplicada e análise de dados. Estudante do 9º semestre de Estatística na UFSM.
+Cientista de dados, com três anos de experiência em modelagem estatística aplicada e análise de dados. Estudante do 9º semestre de Estatística na UFSM.
 
 Atualmente atuo como bolsista no projeto de pesquisa “Modelos dinâmicos para variáveis positivas ou duplamente limitadas”, vinculado ao Instituto Serrapilheira. Desenvolvi atividades voltadas à modelagem por regressão, estimação de parâmetros via máxima verossimilhança, além de simulação e avaliação do desempenho de modelos estatísticos, com foco em rigor metodológico e validação empírica.
 
